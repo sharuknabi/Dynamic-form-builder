@@ -1,0 +1,13 @@
+{
+  "forms": [
+    {
+      "id": "sample-form-1",
+      "title": "Sample Form",
+      "fields": [
+        { "id": "f1", "type": "text", "label": "Name", "required": true },
+        { "id": "f2", "type": "email", "label": "Email", "required": true }
+      ]
+    }
+  ],
+  "submissions": []
+}
